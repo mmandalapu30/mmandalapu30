@@ -1,114 +1,125 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
+<!-- VISITOR COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=mmandalapu30&label=Profile+Views&color=0e75b6&style=flat)
 
-<!-- SECTION A: ANIMATED HEADER -->
+<!-- ANIMATED HEADER -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="55" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6AD3F7&center=true&vCenter=true&width=750&lines=Hi+There!+I'm+Mahesh+Babu+%F0%9F%91%8B;Full+Stack+Developer+%7C+Tech+Creator;Building+Cool+Stuff+%26+Sharing+Knowledge;Let's+Build+Something+Amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Mahesh+Mandalapu!+%F0%9F%91%8B;Senior+Data+Engineer+%7C+6%2B+Years+Experience;Snowflake+%7C+Databricks+%7C+AWS+%7C+dbt+%7C+Spark;Building+Petabyte-Scale+Data+Platforms)](https://git.io/typing-svg)
 
 <br/>
 
+**Senior Data Engineer | Cloud Data Platforms | Modern Data Stack**
+
+📍 Detroit, MI &nbsp;|&nbsp; 📧 mmandalapu30@gmail.com &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshmandalapu)
+
 </div>
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
+## 👨‍💻 About Me
 
-## 🚀 About Me
+Senior Data Engineer with **6+ years of experience** designing, building, and operating **petabyte-scale data platforms** across AWS, Azure, and GCP. Deep expertise in the modern data stack including Snowflake, Databricks, dbt, Apache Spark, Apache Kafka, Apache Airflow, Delta Lake, and Apache Iceberg.
 
-I'm a passionate **Full Stack Developer** who loves building impactful products and sharing knowledge with the tech community. Whether it's crafting clean code, creating educational content, or exploring new technologies — I'm all in!
+Proven track record building **Medallion lakehouse architectures**, real-time streaming pipelines, ELT/ETL frameworks, and data mesh-aligned products with strong **data governance, observability, and CI/CD discipline**.
 
-- 🎥 **Content Creator** — I share coding tutorials, tech tips, and project walkthroughs on **YouTube**, **Medium**, and **Instagram**
-- 💡 **Problem Solver** — I love turning complex challenges into elegant, scalable solutions
-- 🌱 **Always Learning** — Currently exploring AI/ML integrations and cloud-native architectures
-- ⚡ **Fun Fact** — I can debug code faster with coffee than without it ☕
-- 🏆 **Open Source Enthusiast** — Love contributing to and building from the open-source community
-- 🎯 **Mission** — To build technology that makes people's lives simpler and better
+- 🏗️ **Data Platform Builder** — Architected enterprise-grade ELT pipelines on AWS & Azure processing **1M+ events/hour**
+- 📊 **Data Observability Champion** — Reduced data incidents by **50%** using Monte Carlo, Great Expectations & custom SLA dashboards
+- ⚡ **Performance Tuner** — Eliminated skew, optimized AQE on Spark/EMR; cut average query latency by **35%**
+- 🤝 **Mentor & Leader** — Mentored 2 junior engineers; improved team sprint output by **25%** in Q1
+- 🎓 **MS in Data Science** — Saint Peter's University (May 2023)
 
 ---
-
-<!-- SECTION C: TECH STACK -->
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 🔧 Data Engineering & ETL
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
+![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6526F?style=for-the-badge&logo=apache-flink&logoColor=white)
+
+### 🗄️ Data Warehousing & Storage
+![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🔍 Data Quality & Observability
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6B35?style=for-the-badge&logoColor=white)
+![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-6C5CE7?style=for-the-badge&logoColor=white)
+![Soda](https://img.shields.io/badge/Soda-00B4D8?style=for-the-badge&logoColor=white)
+![Collibra](https://img.shields.io/badge/Collibra-0057B8?style=for-the-badge&logoColor=white)
+![Atlan](https://img.shields.io/badge/Atlan-7B61FF?style=for-the-badge&logoColor=white)
+
+### ⚙️ DevOps & Infrastructure
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-
-## 🌐 Find Me Online
+## 🏅 Certifications
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mmandalapu30)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mmandalapu30)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mmandalapu30)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mmandalapu30)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmandalapu30.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmandalapu30@gmail.com)
+![AWS Certified](https://img.shields.io/badge/AWS_Certified_Data_Engineer-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks_Certified-Data_Engineer_Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-SnowPro_Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-Professional_Data_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-Data_Engineer_Associate_DP--203-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-Analytics_Engineering_Certification-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 </div>
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
+## 🎓 Education
+
+🎓 **Master of Science in Data Science** — Saint Peter's University, Jersey City, NJ *(May 2023)*
+
+*Coursework: Machine Learning, Big Data Analytics, Data Engineering Pipelines, Cloud Computing, Statistical Modeling, Distributed Systems, Data Mining*
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mmandalapu30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mmandalapu30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmandalapu30&layout=compact&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmandalapu30&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mmandalapu30&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mmandalapu30&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
-
-<!-- SECTION F: GITHUB TROPHIES -->
 
 ## 🏆 GitHub Trophies
 
@@ -120,37 +131,22 @@ I'm a passionate **Full Stack Developer** who loves building impactful products 
 
 ---
 
-<!-- SECTION H: FOOTER - Let's Connect -->
-
-## 🤝 Let's Connect!
+## 🌐 Connect With Me
 
 <div align="center">
 
-I'm always open to exciting collaborations, tech discussions, or just a friendly chat!
-Reach out through any of my platforms — let's build something amazing together 🚀
-
-<br/>
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=social&logo=youtube)](https://youtube.com/@mmandalapu30)
-&nbsp;&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=social&logo=medium)](https://medium.com/@mmandalapu30)
-&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://instagram.com/mmandalapu30)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://linkedin.com/in/mmandalapu30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maheshmandalapu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmandalapu30@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmandalapu30)
 
 <br/>
 
 ---
 
-<sub>⭐ If you find my repositories helpful, consider giving them a star! It motivates me to keep creating. ⭐</sub>
+<sub>⭐ If you find my work helpful, consider giving it a star — it motivates me to keep building! ⭐</sub>
 
 <br/>
 
-**✨ "The best way to predict the future is to build it." — Let's make it happen! 🚀**
-
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+**✨ "Data is the new oil — I help you refine it at petabyte scale." 🚀**
 
 </div>
